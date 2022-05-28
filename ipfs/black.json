@@ -1,0 +1,11 @@
+{
+    "name": "The Black Square",
+    "description": "Just black square...",
+    "image": "https://ipfs.io/ipfs/QmSLmUykSenxGdPYZj5MWYuZ3niNdbBLVijydqF4sTsrP8",
+    "attributes": [
+        {
+            "trait_type": "Charisma",
+            "value": 99
+        }
+    ]
+}
